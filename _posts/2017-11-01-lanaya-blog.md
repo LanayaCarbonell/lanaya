@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "This morning" 
 date: 2017-11-01 
 ---
