@@ -1,7 +1,7 @@
 body{ 
 font-family: 'Shrikhand', cursive;
   background: linear-gradient(to right, #d3959b, #bfe6ba);
- font-size: 24px;
+ font-size: 16px;
     flex-flow: row;
       padding: 0px;
    margin: 0px;
@@ -22,7 +22,10 @@ img {
    text-align: center; 
  background-color: hsla(191, 76%, 45%, 0.31) ;
 border-color: black ; 
- border-style: double ;
+ border-style: double;
+font-size: 25px;
+padding: 3px;
+
 }
 #header {
  text-align: center; 
@@ -32,14 +35,14 @@ border-color: black ;
 }
 p{
  text-indent: 50px;
-}
-#w1 {
-   border-style: double;
+} 
+#w1,#w2{
+  border-style: double;
    background-color: hsla(270, 58%, 15%, 0.49) ;
-  color:hsla(339, 48%, 87%, 0.83);
+   border-color: hsla(339, 48%, 87%, 0.83);
+  padding: 34px;
+    margin: 25px;
 }
-#w2{
-   border-style: double;
-   background-color: hsla(270, 58%, 15%, 0.49) ;
-  color:hsla(339, 48%, 87%, 0.83);
+footer{
+  text-align: center;
 }
