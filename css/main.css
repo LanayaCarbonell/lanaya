@@ -1,11 +1,13 @@
 body{ 
 font-family: 'Shrikhand', cursive;
   background: linear-gradient(to right, #d3959b, #bfe6ba);
- font-size: 16px;
+ font-size: 17px;
     flex-flow: row;
       padding: 0px;
    margin: 0px;
- 
+}
+h2{
+  font-size: 31px;
 }
 .images{
     margin: 0px;
@@ -20,7 +22,7 @@ img {
 }
 #extra{
    text-align: center; 
- background-color: hsla(191, 76%, 45%, 0.31) ;
+ background-color: hsla(He191, 76%, 45%, 0.31) ;
 border-color: black ; 
  border-style: double;
 font-size: 25px;
@@ -29,20 +31,38 @@ padding: 3px;
 }
 #header {
  text-align: center; 
-   font-size: 35px;
+   font-size: 25px;
   margin: 9px; 
 
 }
 p{
  text-indent: 50px;
 } 
-#w1,#w2{
+#hi{
   border-style: double;
    background-color: hsla(270, 58%, 15%, 0.49) ;
    border-color: hsla(339, 48%, 87%, 0.83);
   padding: 34px;
-    margin: 25px;
+    margin: 45px;
+text-align: center;
+}
+ .button{
+ background: #ddd6f3; 
+    color: #4a1e48 ;
+    padding: 15px 32px;
+    text-align: center; /* Ask Mr.Enrico why it is not centered */
+    font-size: 17px;
+    margin: 3px 6px;
+    cursor: pointer;
+   font-family: 'Shrikhand', cursive;
+    box-shadow: 0 11px #4a1e48 ;
+      border: solid #4a1e48 ;
+    border-radius:32px;
+
+
 }
 footer{
+  color: #f2e9e9 ;
+  background-color: rgba(211, 90, 34, 0.45); 
   text-align: center;
 }
