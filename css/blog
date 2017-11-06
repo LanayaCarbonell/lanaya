@@ -1,10 +1,9 @@
 body{ 
 font-family: 'Shrikhand', cursive;
   background: linear-gradient(to right, #d3959b, #bfe6ba);
- font-size: 17px;
+ font-size: 16px;
     flex-flow: row;
-      padding: 0px;
-   margin: 0px;
+    color: white;
 }
 
 #w1, #w2{
