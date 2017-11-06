@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Today was really decent"
+date: 2014-11-06
 ---
+<P> I am very happy. I fixed my room up and now it looks better. I feel like school has been going pretty decent but I always know I can do better with my grades </p> 
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+<p> I love everyone in STEM but some people are rough around the edges. They're all good and smart, some probably may not like me while others do </p> 
