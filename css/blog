@@ -6,38 +6,6 @@ font-family: 'Shrikhand', cursive;
       padding: 0px;
    margin: 0px;
 }
-h2{
-  font-size: 31px;
-}
-.images{
-    margin: 0px;
- text-align: center;
-    padding: 10px;
-  background-color: hsla(261, 76%, 30%, 0.33); 
-}
-img {
- width: 200px;
-  height: 150px;
-   align: center; 
-}
-#extra{
-   text-align: center; 
- background-color: hsla(He191, 76%, 45%, 0.31) ;
-border-color: black ; 
- border-style: double;
-font-size: 25px;
-padding: 3px;
-
-}
-#header {
- text-align: center; 
-   font-size: 25px;
-  margin: 9px; 
-
-}
-p{
- text-indent: 50px;
-} 
 #w1, #w2{
   border-style: double;
    background-color: hsla(270, 58%, 15%, 0.49) ;
