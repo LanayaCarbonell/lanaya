@@ -68,7 +68,9 @@ footer{
   text-align: center;
 }
 #w1, #w2{
-  border-style: double;
-  border-color: hsla(339, 48%, 87%, 0.83);
-  background-color: hsla(270, 58%, 15%, 0.49) ;
+border-style: double;
+   background-color: hsla(270, 58%, 15%, 0.49) ;
+   border-color: hsla(339, 48%, 87%, 0.83);
+padding: 10px;
+    margin: 15px;
 }
