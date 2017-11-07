@@ -4,7 +4,7 @@ title: "NOVEMBER 7"
 date: 2017-11-07
 ---
 
- <div id="w1"> 
+ <div id="w3"> 
 13
     <h4> November 7, 2017</h4>
 14
