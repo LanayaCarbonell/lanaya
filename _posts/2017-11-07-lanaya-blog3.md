@@ -14,10 +14,6 @@ date: 2017-11-07
      .
      <p> I am so happy, I consider you watch this. Have a nice week! </p> 
 .
-@LanayaCarbonell
-Update blog.html
-a day ago
-.
     <p> SONG OF THE WEEK: Tchaikovsky: Waltz of the Flowers </p> 
 
 .
