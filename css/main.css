@@ -69,7 +69,7 @@ footer{
 }
 #w1, #w2, #w3{
 border-style: double;
-   background-color: rgba(54, 25, 25, .5);
+   background-color: rgba(	255,	180,	175, .5);
    border-color: hsla(339, 48%, 87%, 0.83);
 padding: 10px;
     margin: 15px;
