@@ -5,9 +5,6 @@ date: 2017-11-01
 ---
   
  <div id="w1"> 
-@LanayaCarbonell
-Update blog.html
-a day ago
 13
     <h4> October 26, 2017</h4>
 14
@@ -23,8 +20,6 @@ Update blog.html
 a day ago
 18
     <p> SONG OF THE WEEK: Call it Fate, Call it Karma: The Strokes </p> 
-@LanayaCarbonell
-Update blog.html
-a day ago
+
 19
   </div>
