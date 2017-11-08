@@ -8,4 +8,5 @@ I'm super duper happy right now. When I was younger, I lived with my grandma for
 I am so estatic finding the two cartoons. It makes me so nostalgic watching them. They're really old but they bring me back to simpler times. As cliche as it sounds. The cartoons are such a warm "home" feeling to me. I also watch this with Zoey until we fall asleep. And she's getting older...So those memories are so wonderful to me. 
 
 I am so happy, I consider you watch this. Have a nice week! 
+
  SONG OF THE WEEK: Tchaikovsky: Waltz of the Flowers 
